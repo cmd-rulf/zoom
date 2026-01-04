@@ -34,6 +34,6 @@ tenacity
 tgcrypto
 typing_extensions
 urllib3
-uvloop
+uvloop==0.21.0
 xattr
 yt-dlp
